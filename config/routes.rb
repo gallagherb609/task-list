@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-
+  # get("/", {})  need after forcing sign in 
 
   # Routes for the Task resource:
 
